@@ -10,14 +10,7 @@ This repository showcases my learning journey in Microsoft Excel, including prac
 
 - Data Formatting and Data Cleaning
 - Excel Formulas and Functions
-- IF, AND, and OR Functions
 - COUNTIF, COUNTIFS, SUMIF,SUMIFS,AVAERAGE,AVERAGEIF,MIN,MAX,SUM,AND IF 
-- Sorting and Filtering
-- Conditional Formatting
-- Data Validation
-- VLOOKUP and XLOOKUP
-- Pivot Tables and Pivot Charts
-- Interactive Dashboards
 
 🛠️ Tools & Skills
 
@@ -25,7 +18,6 @@ This repository showcases my learning journey in Microsoft Excel, including prac
 - Data Analysis
 - Data Cleaning
 - Data Visualization
-- Reporting and Dashboards
 
 🎥 Practice Recording
 
@@ -37,7 +29,7 @@ To strengthen my Excel and Data Analytics skills through consistent practice and
 
 👨‍💻 Author
 
-Shaikh Hasan Basha
+Shaik Hasan Basha
 
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
 
